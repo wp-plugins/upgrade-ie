@@ -1,4 +1,4 @@
-=== Pods ===
+=== Upgrade IE ===
 Contributors: logikal16
 Tags: upgrade, ie6
 Requires at least: 2.6
