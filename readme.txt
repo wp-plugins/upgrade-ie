@@ -9,7 +9,7 @@ Notify site visitors to upgrade their browser.
 
 == Description ==
 
-This plugin nofifies users that they should upgrade their browser. This plugin adds a small pane to the top of the page alerting the user to upgrade their browser. The pane can optionally be hidden by the user.
+This plugin notifies users that they should upgrade their browser. This plugin adds a small pane to the top of the page alerting the user to upgrade their browser. The pane can optionally be hidden by the user.
 
 == Installation ==
 
