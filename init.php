@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Upgrade IE
-Plugin URI: http://uproot.us/
+Plugin URI: http://wordpress.org/extend/plugins/upgrade-ie/
 Description: Get your users to ditch IE!
-Version: 1.0.0
+Version: 1.0.1
 Author: Matt Gibbs
-Author URI: http://uproot.us/
+Author URI: http://wordpress.org/extend/plugins/upgrade-ie/
 
 Copyright 2008  Matt Gibbs  (email : logikal16@gmail.com)
 
