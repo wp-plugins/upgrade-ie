@@ -2,8 +2,8 @@
 /*
 Plugin Name: Upgrade IE
 Plugin URI: http://wordpress.org/extend/plugins/upgrade-ie/
-Description: Get your users to ditch IE!
-Version: 1.0.1
+Description: Notify IE users to upgrade their browser.
+Version: 1.0.2
 Author: Matt Gibbs
 Author URI: http://wordpress.org/extend/plugins/upgrade-ie/
 
@@ -51,15 +51,22 @@ function createCookie() {
     background: #FFFFC8;
 }
 
+#uIE #hide {
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
 #uIE img {
     vertical-align: middle;
 }
 </style>
 <div id="uIE">
     <div id="hover">
-        <div style="float:right; padding-right:10px"><a href="#" onclick="createCookie()">hide</a></div>
-        <img src="/wp-content/plugins/upgrade-IE/booey.png" alt="booey" />
-        This site looks a lot better on an upgraded browser. <a href="http://browsehappy.com/" target="blank">How do I upgrade?</a>
+        <img src="/wp-content/plugins/upgrade-ie/close.gif" alt="close" id="hide" onclick="createCookie()" />
+        <img src="/wp-content/plugins/upgrade-ie/alert.gif" alt="alert" />
+        This site looks a lot better on an upgraded browser.
+        <a href="http://browsehappy.com/" target="blank">How do I upgrade?</a>
     </div>
     <div style="height:10px"><!--clear--></div>
 </div>
