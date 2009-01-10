@@ -3,7 +3,7 @@
 Plugin Name: Upgrade IE
 Plugin URI: http://wordpress.org/extend/plugins/upgrade-ie/
 Description: Notify IE users to upgrade their browser.
-Version: 1.0.2.
+Version: 1.0.2
 Author: Matt Gibbs
 Author URI: http://wordpress.org/extend/plugins/upgrade-ie/
 
